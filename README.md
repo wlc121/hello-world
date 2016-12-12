@@ -1,2 +1,3 @@
 # hello-world
-he repository for arduino
+the repository for arduino
+In the editor, write a bit about yourself.
